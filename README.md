@@ -3,7 +3,7 @@
 
 ## Some Screenshots of the output
 
-## At initial stage all points correspond to a single cluster each
+## At initial stage all points correspond to a single cluster each i.e n clusters for n points
 ![](images/1.PNG)
 
 ## At 2nd last stage only two clusters remains
