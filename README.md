@@ -3,14 +3,14 @@
 
 ## Some Screenshots of the output
 
-# At initial stage all points correspond to a single cluster each
+## At initial stage all points correspond to a single cluster each
 ![](images/1.PNG)
 
-# At 2nd last stage only two clusters remains
+## At 2nd last stage only two clusters remains
 ![](images/2.PNG)
 
-# At the end only one cluster
+## At the end only one cluster
 ![](images/3.PNG)
 
-# Final Dendrogram Output
+## Final Dendrogram Output
 ![](images/Dendrogram.PNG)
